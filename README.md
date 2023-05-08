@@ -1,4 +1,14 @@
-**alarm-clock**
+# Alarm-clock
+
+This is an Alarm App built using JavaScript that allows users to set and manage alarms.
+
+**Features**
+
+Users can set multiple alarms with custom labels and specific times.
+
+Users can edit or delete previously set alarms.
+
+When an alarm goes off, the user will be alerted with a sound and a message.
 
 
 **Technologies used**
