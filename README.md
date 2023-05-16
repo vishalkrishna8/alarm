@@ -1,48 +1,49 @@
-# Alarm-clock
+## Alarm-clock
 
 This is an Alarm App built using JavaScript that allows users to set and manage alarms.
 
-**Features**
+## Features
 
-Users can set multiple alarms with custom labels and specific times.
+1. Users can set multiple alarms with custom labels and specific times.
 
-Users can edit or delete previously set alarms.
+2. Users can edit or delete previously set alarms.
 
-When an alarm goes off, the user will be alerted with a sound and a message.
+3. When an alarm goes off, the user will be alerted with a sound and a message.
 
 
-**Technologies used**
+## Technologies used
 
 This website was built using the following technologies:
 
-HTML
+• HTML
 
-CSS
+• CSS
 
-JavaScript
+• JavaScript
 
-**Installation**
+## Installation
 
 
 To install and run the website locally, follow these steps:
 
-Clone the repository
+• Clone the repository
 
-Open the website in a browser: http://localhost:3000
+• Open the website in a browser: http://localhost:3000
 
-**Contributing**
+
+## Contributing
 
 
 Contributions to the website are welcome. To contribute, follow these steps:
 
-Fork the repository Create a new branch: git checkout -b new-feature
+1. Fork the repository Create a new branch: git checkout -b new-feature
 
-Make changes and commit them: git commit -am 'Add new feature'
+2. Make changes and commit them: git commit -am 'Add new feature'
 
-Push to the branch: git push origin new-feature
+3. Push to the branch: git push origin new-feature
 
-Create a pull request
+4. Create a pull request
 
-**License**
+## License
 
 This website is licensed under the MIT License. See the LICENSE file for more information.
